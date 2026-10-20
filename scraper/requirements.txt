@@ -1,0 +1,36 @@
+# Web Scraping
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+playwright==1.40.0
+lxml==4.9.3
+requests==2.31.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+pdfplumber==0.10.3
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# AI & NLP
+openai==1.6.1
+google-generativeai==0.3.2
+dateparser==1.2.0
+sentence-transformers==2.2.2
+langdetect==1.0.9
+
+# Database
+supabase==2.3.0
+python-dotenv==1.0.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# API Server
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
